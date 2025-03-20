@@ -117,17 +117,6 @@
                 </configuration>
             </plugin>
 
-            <!-- Plugin para deploy no Azure Web App -->
-            <plugin>
-                <groupId>com.microsoft.azure</groupId>
-                <artifactId>azure-webapp-maven-plugin</artifactId>
-                <version>1.14.0</version>
-                <configuration>
-                    <appName>novoservidorwebapp</appName> <!-- Nome do seu App Service -->
-                    <resourceGroup>PaoFacil_RG</resourceGroup> <!-- Nome do Resource Group -->
-                </configuration>
-            </plugin>
-
             <!-- Spring Boot Maven Plugin para empacotar o projeto -->
             <plugin>
                 <groupId>org.springframework.boot</groupId>
