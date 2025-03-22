@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/painel-dashboard/static/css/main.4454d9a7.css",
-    "main.js": "/painel-dashboard/static/js/main.4ae68b46.js",
-    "static/js/453.e75d9844.chunk.js": "/painel-dashboard/static/js/453.e75d9844.chunk.js",
-    "index.html": "/painel-dashboard/index.html",
-    "main.4454d9a7.css.map": "/painel-dashboard/static/css/main.4454d9a7.css.map",
-    "main.4ae68b46.js.map": "/painel-dashboard/static/js/main.4ae68b46.js.map",
-    "453.e75d9844.chunk.js.map": "/painel-dashboard/static/js/453.e75d9844.chunk.js.map"
+    "main.css": "/PaoFacil/painel-dashboard/static/css/main.4fd1b421.css",
+    "main.js": "/PaoFacil/painel-dashboard/static/js/main.b49d13ad.js",
+    "static/js/453.e75d9844.chunk.js": "/PaoFacil/painel-dashboard/static/js/453.e75d9844.chunk.js",
+    "index.html": "/PaoFacil/painel-dashboard/index.html",
+    "main.4fd1b421.css.map": "/PaoFacil/painel-dashboard/static/css/main.4fd1b421.css.map",
+    "main.b49d13ad.js.map": "/PaoFacil/painel-dashboard/static/js/main.b49d13ad.js.map",
+    "453.e75d9844.chunk.js.map": "/PaoFacil/painel-dashboard/static/js/453.e75d9844.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4454d9a7.css",
-    "static/js/main.4ae68b46.js"
+    "static/css/main.4fd1b421.css",
+    "static/js/main.b49d13ad.js"
   ]
 }
