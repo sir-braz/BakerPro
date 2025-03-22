@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/painel-dashboard/static/css/main.4454d9a7.css",
-    "main.js": "/painel-dashboard/static/js/main.f063edb2.js",
-    "static/js/453.e75d9844.chunk.js": "/painel-dashboard/static/js/453.e75d9844.chunk.js",
-    "index.html": "/painel-dashboard/index.html",
-    "main.4454d9a7.css.map": "/painel-dashboard/static/css/main.4454d9a7.css.map",
-    "main.f063edb2.js.map": "/painel-dashboard/static/js/main.f063edb2.js.map",
-    "453.e75d9844.chunk.js.map": "/painel-dashboard/static/js/453.e75d9844.chunk.js.map"
+    "main.css": "/static/css/main.4454d9a7.css",
+    "main.js": "/static/js/main.5538e1be.js",
+    "static/js/453.e75d9844.chunk.js": "/static/js/453.e75d9844.chunk.js",
+    "index.html": "/index.html",
+    "main.4454d9a7.css.map": "/static/css/main.4454d9a7.css.map",
+    "main.5538e1be.js.map": "/static/js/main.5538e1be.js.map",
+    "453.e75d9844.chunk.js.map": "/static/js/453.e75d9844.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4454d9a7.css",
-    "static/js/main.f063edb2.js"
+    "static/js/main.5538e1be.js"
   ]
 }
